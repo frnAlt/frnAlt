@@ -86,11 +86,16 @@ const frnAlt = {
 ## 🔥 Top Projects
 
 <!-- TOP-PROJECTS-LIST:START -->
-- [FARHAN-Shot-v2](https://github.com/frnAlt/FARHAN-Shot-v2) - A Wi-Fi security testing tool featuring customized terminal banners and robust scripting.
-- [GoatBot-IG-Port](https://github.com/frnAlt/GoatBot-IG-Port) - An Instagram chatbot framework with custom commands and platform integrations, deployed via Render.
-- [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with wpa_supplicant.
-- [Baka-Chan-bot-fix](https://github.com/frnAlt/Baka-Chan-bot-fix) - A simple Bot chat messenger using personal account.
-- [fca-goatbot-adapted](https://github.com/frnAlt/fca-goatbot-adapted) - Adapted Facebook Chat API (FCA) library for GoatBot.
+- [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
+- [FARHAN-Shot-v2](https://github.com/frnAlt/FARHAN-Shot-v2) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
+- [fca-goatbot-adapted](https://github.com/frnAlt/fca-goatbot-adapted) - Try out new fca.
+- [GoatBot-IG-Port](https://github.com/frnAlt/GoatBot-IG-Port) - No description
+- [Baka-Chan-bot-fix](https://github.com/frnAlt/Baka-Chan-bot-fix) - No description
+- [GrammChatBot](https://github.com/frnAlt/GrammChatBot) - GrammChatBot is an elite Node.js bot framework that provides a 1-to-1 API Adapter Port of Goatbot-V2 from Facebook Messenger (FCA) to Telegram (TCA).
+- [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
+- [zaiis2api](https://github.com/frnAlt/zaiis2api) - Unlim-ited useNano Banana，Nano Banana Pro，Gemini 3 Pro Preview，
+- [facebookChatBot](https://github.com/frnAlt/facebookChatBot) - A high-performance, modular, and human-like Facebook Messenger Chatbot built on Node.js and GoatBot v2 architecture. Powered by a custom anti-ban FCA engine, SQLite conversation memory, group moderation tools, and a real-time web control panel.
+- [Car-Showdown](https://github.com/frnAlt/Car-Showdown) - No description
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
@@ -99,10 +104,10 @@ const frnAlt = {
 
 <!-- RECENT-PROJECTS:START -->
 - [GrammChatBot](https://github.com/frnAlt/GrammChatBot) - GrammChatBot is an elite Node.js bot framework that provides a 1-to-1 API Adapter Port of Goatbot-V2 from Facebook Messenger (FCA) to Telegram (TCA).
-- [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation.
-- [baka-chan-v1](https://github.com/frnAlt/baka-chan-v1) - Application development utilizing Node.js.
-- [maidapadgame](https://github.com/frnAlt/maidapadgame) - Game project development with active deployment environments.
-- [facebookChatBot](https://github.com/frnAlt/facebookChatBot) - A high-performance, modular, and human-like Facebook Messenger Chatbot built on Node.js and GoatBot v2 architecture.
+- [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
+- [zaiis2api](https://github.com/frnAlt/zaiis2api) - Unlim-ited useNano Banana，Nano Banana Pro，Gemini 3 Pro Preview，
+- [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
+- [facebookChatBot](https://github.com/frnAlt/facebookChatBot) - A high-performance, modular, and human-like Facebook Messenger Chatbot built on Node.js and GoatBot v2 architecture. Powered by a custom anti-ban FCA engine, SQLite conversation memory, group moderation tools, and a real-time web control panel.
 <!-- RECENT-PROJECTS:END -->
 
 ---
