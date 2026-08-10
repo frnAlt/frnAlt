@@ -19,17 +19,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate github-contribution-grid-snake animations
+        uses: Platane/snk@v3
         with:
           github_user_name: frnAlt
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8acdff,#58a6ff,#1f6feb,#1158c7
           
       - name: Commit and push snake animation
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add dist/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🐍 Update snake animation" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🐍 Update all animated snake formats" && git push)

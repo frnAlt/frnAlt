@@ -5,6 +5,12 @@
 <h1 align="center">Hi, I'm Farhan Muh Tasim (<code>frnAlt / frnback / Gtajisan</code>)</h1>
 <h4 align="center">Backend Developer • Security Enthusiast • Open-Source Contributor</h4>
 
+<p align="center">
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+Developer;Cybersecurity+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -78,7 +84,11 @@ const frnAlt = {
 ## 🛰️ Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frnAlt/frnAlt/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frnAlt/frnAlt/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frnAlt/frnAlt/main/dist/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/frnAlt/frnAlt/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
@@ -115,5 +125,7 @@ const frnAlt = {
 ## 👁️ Visitor Counter
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Visitor Count" />
+  <a href="https://count.getloli.com/get/@frnAlt?theme=moebooru">
+    <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Visitor Count" />
+  </a>
 </p>
