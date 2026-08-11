@@ -1,37 +1,81 @@
 <p align="center">
-  <img src="https://placehold.co/1200x200/0d1117/0d1117.png" height="70" alt="My Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Farhan%20Muh%20Tasim&fontSize=42&fontColor=ffffff&animation=twinkling&desc=frnAlt%20%E2%80%A2%20Gtajisan%20%E2%80%A2%20frnback&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Farhan Muh Tasim (<code>frnAlt / frnback / Gtajisan</code>)</h1>
-<h4 align="center">Backend Developer • Security Enthusiast • Open-Source Contributor</h4>
+<div align="center">
+  <a href="https://github.com/frnAlt">
+    <img src="https://github.com/frnAlt.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #ff79c6; box-shadow: 0 0 20px #bd93f9;" alt="frnAlt Profile Picture" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%80%A2+Security+Researcher;Android+Utilities+%E2%80%A2+Custom+ROM+Dev;FCA+%26+Telegram+Bot+Architect;Distro+Anime+Ricing+Enthusiast;frnAlt+%2F+Gtajisan+%2F+frnback" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+Developer;Cybersecurity+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Anime Distro Animation Banner" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌸 Fastfetch / Distro Anime Terminal
+
+```system
+      /\_/\       frnAlt @ Gtajisan (Farhan Muh Tasim)
+     ( o.o )      -----------------------------------
+      > ^ <       OS: Arch Linux / Android (Termux)
+     /|   |\      Kernel: Custom Linux / KernelSU
+    ( |   | )     User: Farhan Muh Tasim (frnAlt / Gtajisan / frnback)
+     /     \      Role: Backend Developer & Security Specialist
+                  PFP: frnAlt (GitHub)
+                  Location: Chattogram, Bangladesh 🇧🇩
+                  Community: Anime Art Community Bangladesh
+                  Focus: Bot Frameworks • Android Tools • WPS Security
+```
+
+---
+
+## 🧠 About Me & Identity
 
 ```js
-const frnAlt = {
+const profile = {
   name: "Farhan Muh Tasim",
-  alias: ["frnAlt", "frnback", "Gtajisan"],
+  primary_handle: "frnAlt",
+  old_handles: ["Gtajisan", "frnback"],
   location: "Chattogram, 🇧🇩 Bangladesh",
   role: "Backend Developer & Cybersecurity Enthusiast",
   community: ["Anime Art Community Bangladesh"],
-  stack: ["Node.js", "Go", "MongoDB", "Python", "Vercel", "Render"],
-  learning: ["OAuth2", "CI/CD", "Reverse Engineering"]
+  
+  specializations: {
+    backend_and_bots: [
+      "Node.js & Go Backend Engineering",
+      "FCA (Facebook Messenger Chatbot Architecture)",
+      "GrammChatBot (FCA to TCA Telegram Port)",
+      "Anti-ban FCA Engines & Custom Memory DB"
+    ],
+    android_and_roms: [
+      "Xiaomi / MIUI Bootloader Unlock Bypass Tools",
+      "Android ADB & Fastboot Management Utilities",
+      "Custom ROM Maintenance (DerpFest Ports)",
+      "KernelSU & Magisk Module Tweaking"
+    ],
+    security_and_research: [
+      "FARHAN-Shot (WPS PIN Attacks w/ wpa_supplicant)",
+      "Pixie Dust & Online Bruteforce Security Research",
+      "Router Admin Panel Exploitation & Auditing",
+      "Reverse Engineering AI & Model API Proxies"
+    ]
+  },
+
+  stack: ["Node.js", "Go", "Python", "MongoDB", "SQLite", "TypeScript", "Bash", "Linux"],
+  learning: ["OAuth2", "CI/CD", "Advanced Kernel Reverse Engineering"]
 };
 ```
 
 ---
 
 ## 🌐 Connect With Me
-
-###
 
 <div align="center">
   <a href="https://github.com/frnAlt" target="_blank">
@@ -47,36 +91,17 @@ const frnAlt = {
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Skills (frnAlt + Gtajisan)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=render" height="40" alt="render logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <h3>⚡ Languages & Core Backend</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,c,cpp,html,css,bash" alt="languages" />
+  
+  <h3>🛡️ Security, Android & Systems</h3>
+  <img src="https://skillicons.dev/icons?i=linux,android,postman,github,git" alt="tools & security" />
+
+  <h3>☁️ Databases & Cloud Deployment</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,vercel,render,docker" alt="backend & cloud" />
 </div>
 
 ---
@@ -90,6 +115,15 @@ const frnAlt = {
     <img src="https://raw.githubusercontent.com/frnAlt/frnAlt/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </picture>
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frnAlt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnAlt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
@@ -126,6 +160,10 @@ const frnAlt = {
 
 <p align="center">
   <a href="https://count.getloli.com/get/@frnAlt?theme=moebooru">
-    <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Visitor Count" />
+    <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Moe Anime Visitor Counter" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
