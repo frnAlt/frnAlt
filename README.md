@@ -1,21 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Farhan%20Muh%20Tasim&fontSize=42&fontColor=ffffff&animation=twinkling&desc=frnAlt%20%E2%80%A2%20Gtajisan%20%E2%80%A2%20frnback&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
-</p>
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Anime Distro Animation Header" />
+  <br/>
+  <br/>
   <a href="https://github.com/frnAlt">
-    <img src="https://github.com/frnAlt.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #ff79c6; box-shadow: 0 0 20px #bd93f9;" alt="frnAlt Profile Picture" />
+    <img src="https://images.weserv.nl/?url=github.com/frnAlt.png&h=300&w=300&fit=cover&mask=circle" width="140" height="140" alt="frnAlt Circular 360 PFP" />
   </a>
   <br/>
   <br/>
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%80%A2+Security+Researcher;Android+Utilities+%E2%80%A2+Custom+ROM+Dev;FCA+%26+Telegram+Bot+Architect;Distro+Anime+Ricing+Enthusiast;frnAlt+%2F+Gtajisan+%2F+frnback" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Farhan+Muh+Tasim+(frnAlt);Backend+Developer+%E2%80%A2+Security+Researcher;Android+Utilities+%E2%80%A2+Custom+ROM+Dev;FCA+%26+Telegram+Bot+Architect;frnAlt+%2F+Gtajisan+%2F+frnback" alt="Typing SVG" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Anime Distro Animation Banner" />
-</p>
 
 ---
 
@@ -27,7 +22,7 @@
      /|   |\      Kernel: Custom Linux / KernelSU
     ( |   | )     User: Farhan Muh Tasim (frnAlt / Gtajisan / frnback)
      /     \      Role: Backend Developer & Security Specialist
-                  PFP: frnAlt (GitHub)
+                  PFP: frnAlt (360 Circular)
                   Location: Chattogram, Bangladesh 🇧🇩
                   Community: Anime Art Community Bangladesh
                   Focus: Bot Frameworks • Android Tools • WPS Security
@@ -161,8 +156,4 @@ const profile = {
   <a href="https://count.getloli.com/get/@frnAlt?theme=moebooru">
     <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Moe Anime Visitor Counter" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
