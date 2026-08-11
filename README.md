@@ -19,7 +19,6 @@
 
 ---
 
-## 🌸 Fastfetch / Distro Anime Terminal
 
 ```system
       /\_/\       frnAlt @ Gtajisan (Farhan Muh Tasim)
