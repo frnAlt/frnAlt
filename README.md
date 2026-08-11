@@ -1,106 +1,111 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Anime Distro Animation Header" />
-  <br/>
   <br/>
   <a href="https://github.com/frnAlt">
-    <img src="https://images.weserv.nl/?url=github.com/frnAlt.png&h=300&w=300&fit=cover&mask=circle" width="140" height="140" alt="frnAlt Circular 360 PFP" />
+    <img src="https://images.weserv.nl/?url=github.com/frnAlt.png&h=300&w=300&fit=cover&mask=circle" width="130" height="130" alt="frnAlt 360 PFP" />
   </a>
+  <br/>
+  <br/>
+  <h1>Farhan Muh Tasim</h1>
+  <code>frnAlt</code> • <code>Gtajisan</code> • <code>frnback</code>
   <br/>
   <br/>
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Farhan+Muh+Tasim+(frnAlt);Backend+Developer+%E2%80%A2+Security+Researcher;Android+Utilities+%E2%80%A2+Custom+ROM+Dev;FCA+%26+Telegram+Bot+Architect;frnAlt+%2F+Gtajisan+%2F+frnback" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%80%A2+Go+%2F+Node.js;Security+Researcher+%E2%80%A2+Reverse+Engineering;Android+Low-Level+%E2%80%A2+Kernel+%26+ROM+Dev;Bot+Framework+Architect+(FCA+%2F+TCA)" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
+### 💻 Fastfetch / System Architecture
 
-```system
-      /\_/\       frnAlt @ Gtajisan (Farhan Muh Tasim)
-     ( o.o )      -----------------------------------
-      > ^ <       OS: Arch Linux / Android (Termux)
-     /|   |\      Kernel: Custom Linux / KernelSU
-    ( |   | )     User: Farhan Muh Tasim (frnAlt / Gtajisan / frnback)
-     /     \      Role: Backend Developer & Security Specialist
-                  PFP: frnAlt (360 Circular)
-                  Location: Chattogram, Bangladesh 🇧🇩
-                  Community: Anime Art Community Bangladesh
-                  Focus: Bot Frameworks • Android Tools • WPS Security
+```sys
+                     frnAlt@Gtajisan-workstation
+                     ---------------------------
+   /\___/\           OS: Arch Linux x86_64 / Android (Termux)
+  /       \          Kernel: Linux 6.x / Custom KernelSU
+ |  #   #  |         Shell: zsh / bash
+  \  ^  /            Role: Backend Engineer & Security Specialist
+   |||||             Location: Chattogram, Bangladesh 🇧🇩
+   |||||             Handles: frnAlt (Primary) | Gtajisan (Legacy) | frnback
+                     Focus: Distributed Systems • Bot Architecture • Security Research
 ```
 
 ---
 
-## 🧠 About Me & Identity
+### 🛠️ Technical Profile & Core Competencies
 
-```js
-const profile = {
-  name: "Farhan Muh Tasim",
-  primary_handle: "frnAlt",
-  old_handles: ["Gtajisan", "frnback"],
-  location: "Chattogram, 🇧🇩 Bangladesh",
-  role: "Backend Developer & Cybersecurity Enthusiast",
-  community: ["Anime Art Community Bangladesh"],
+```typescript
+interface DeveloperProfile {
+  identity: {
+    name: "Farhan Muh Tasim",
+    handles: ["frnAlt", "Gtajisan", "frnback"],
+    location: "Chattogram, Bangladesh",
+    status: "Active Backend Developer & Security Contributor"
+  };
   
-  specializations: {
-    backend_and_bots: [
-      "Node.js & Go Backend Engineering",
-      "FCA (Facebook Messenger Chatbot Architecture)",
-      "GrammChatBot (FCA to TCA Telegram Port)",
-      "Anti-ban FCA Engines & Custom Memory DB"
-    ],
-    android_and_roms: [
-      "Xiaomi / MIUI Bootloader Unlock Bypass Tools",
-      "Android ADB & Fastboot Management Utilities",
-      "Custom ROM Maintenance (DerpFest Ports)",
-      "KernelSU & Magisk Module Tweaking"
-    ],
-    security_and_research: [
-      "FARHAN-Shot (WPS PIN Attacks w/ wpa_supplicant)",
-      "Pixie Dust & Online Bruteforce Security Research",
-      "Router Admin Panel Exploitation & Auditing",
-      "Reverse Engineering AI & Model API Proxies"
+  backend_engineering: {
+    runtimes: ["Node.js (ESM/TS)", "Go", "Python 3"],
+    architecture: ["REST APIs", "GraphQL", "WebSockets", "MQTT Emulation"],
+    databases: ["MongoDB", "SQLite", "Redis Memory Storage"],
+    bot_frameworks: [
+      "FCA (Facebook Chat API Engine w/ Anti-Ban Prototypes)",
+      "GrammChatBot (GoatBot-V2 Port to Telegram TCA)",
+      "Floppa-Chatbot (FB Messenger Browser Protocol Emulation)"
     ]
-  },
+  };
 
-  stack: ["Node.js", "Go", "Python", "MongoDB", "SQLite", "TypeScript", "Bash", "Linux"],
-  learning: ["OAuth2", "CI/CD", "Advanced Kernel Reverse Engineering"]
-};
+  security_and_mobile: {
+    security_research: [
+      "FARHAN-Shot / FARHAN-Shot-v2 (WPS PIN Attacks via wpa_supplicant)",
+      "Pixie Dust & Online Bruteforce Security Tooling",
+      "API Reverse Engineering & Proxy Gateways (zaiis2api)"
+    ],
+    android_systems: [
+      "Xiaomi / MIUI Bootloader Unlock Restrictions Bypass",
+      "Android ADB & Fastboot Management Utilities",
+      "Custom ROM Porting & Kernel Maintenance (DerpFest)"
+    ]
+  };
+}
 ```
 
 ---
 
-## 🌐 Connect With Me
+### 🧰 Tech Stack & Tooling
+
+<div align="center">
+  <br/>
+  <p><b>Languages & Core Runtimes</b></p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,py,c,cpp,bash" alt="languages" />
+  
+  <br/>
+  <p><b>Systems, Android & Security</b></p>
+  <img src="https://skillicons.dev/icons?i=linux,android,docker,postman,git,github" alt="systems & security" />
+
+  <br/>
+  <p><b>Databases & Cloud Infrastructure</b></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,express,vercel,render" alt="databases & cloud" />
+</div>
+
+---
+
+### 🌐 Connect
 
 <div align="center">
   <a href="https://github.com/frnAlt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://facebook.com/your-facebook-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
   <a href="https://instagram.com/your-instagram-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </div>
 
 ---
 
-## 💻 Tech Stack & Skills (frnAlt + Gtajisan)
-
-<div align="center">
-  <h3>⚡ Languages & Core Backend</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,c,cpp,html,css,bash" alt="languages" />
-  
-  <h3>🛡️ Security, Android & Systems</h3>
-  <img src="https://skillicons.dev/icons?i=linux,android,postman,github,git" alt="tools & security" />
-
-  <h3>☁️ Databases & Cloud Deployment</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,vercel,render,docker" alt="backend & cloud" />
-</div>
-
----
-
-## 🛰️ Contribution Graph
+### 📈 Contribution & Metrics
 
 <p align="center">
   <picture>
@@ -110,18 +115,14 @@ const profile = {
   </picture>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frnAlt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnAlt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frnAlt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnAlt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-## 🔥 Top Projects
+### 🔥 Top Projects
 
 <!-- TOP-PROJECTS-LIST:START -->
 - [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
@@ -138,7 +139,7 @@ const profile = {
 
 ---
 
-## 🚀 Recent Projects
+### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
 - [GrammChatBot](https://github.com/frnAlt/GrammChatBot) - GrammChatBot is an elite Node.js bot framework that provides a 1-to-1 API Adapter Port of Goatbot-V2 from Facebook Messenger (FCA) to Telegram (TCA).
@@ -150,10 +151,8 @@ const profile = {
 
 ---
 
-## 👁️ Visitor Counter
-
 <p align="center">
   <a href="https://count.getloli.com/get/@frnAlt?theme=moebooru">
-    <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Moe Anime Visitor Counter" />
+    <img src="https://count.getloli.com/get/@frnAlt?theme=moebooru" alt="Visitor Counter" />
   </a>
 </p>
