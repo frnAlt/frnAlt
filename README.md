@@ -130,11 +130,11 @@ interface DeveloperProfile {
 - [fca-goatbot-adapted](https://github.com/frnAlt/fca-goatbot-adapted) - Try out new fca.
 - [GoatBot-IG-Port](https://github.com/frnAlt/GoatBot-IG-Port) - No description
 - [Baka-Chan-bot-fix](https://github.com/frnAlt/Baka-Chan-bot-fix) - No description
+- [Xiaomi_blossom_stuff](https://github.com/frnAlt/Xiaomi_blossom_stuff) - Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [Daisy-stuff](https://github.com/frnAlt/Daisy-stuff) - No description
 - [math-practice-app](https://github.com/frnAlt/math-practice-app) - No description
 - [GrammChatBot](https://github.com/frnAlt/GrammChatBot) - GrammChatBot is an elite Node.js bot framework that provides a 1-to-1 API Adapter Port of Goatbot-V2 from Facebook Messenger (FCA) to Telegram (TCA).
 - [CircleToSearch](https://github.com/frnAlt/CircleToSearch) - Circle to Search + Song Finder brings Google's Android-exclusive Circle to Search gesture interaction and real-time tab audio music recognition to desktop Chromium browsers (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi).
-- [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
@@ -142,11 +142,11 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [Xiaomi_blossom_stuff](https://github.com/frnAlt/Xiaomi_blossom_stuff) - Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [Daisy-stuff](https://github.com/frnAlt/Daisy-stuff) - No description
 - [math-practice-app](https://github.com/frnAlt/math-practice-app) - No description
 - [GrammChatBot](https://github.com/frnAlt/GrammChatBot) - GrammChatBot is an elite Node.js bot framework that provides a 1-to-1 API Adapter Port of Goatbot-V2 from Facebook Messenger (FCA) to Telegram (TCA).
 - [CircleToSearch](https://github.com/frnAlt/CircleToSearch) - Circle to Search + Song Finder brings Google's Android-exclusive Circle to Search gesture interaction and real-time tab audio music recognition to desktop Chromium browsers (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi).
-- [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 <!-- RECENT-PROJECTS:END -->
 
 ---
