@@ -128,7 +128,7 @@ interface DeveloperProfile {
 - [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
 - [FARHAN-Shot-v2](https://github.com/frnAlt/FARHAN-Shot-v2) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
 - [fca-goatbot-adapted](https://github.com/frnAlt/fca-goatbot-adapted) - Try out new fca.
-- [GoatBot-IG-Port](https://github.com/frnAlt/GoatBot-IG-Port) - No description
+- [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
 - [Baka-Chan-bot-fix](https://github.com/frnAlt/Baka-Chan-bot-fix) - No description
 - [Xiaomi_blossom_stuff](https://github.com/frnAlt/Xiaomi_blossom_stuff) - Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [AutoReactorPy](https://github.com/frnAlt/AutoReactorPy) - No description
@@ -142,11 +142,11 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
 - [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 - [portfolio](https://github.com/frnAlt/portfolio) - No description
 - [Xiaomi_blossom_stuff](https://github.com/frnAlt/Xiaomi_blossom_stuff) - Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [Daisy-stuff](https://github.com/frnAlt/Daisy-stuff) - No description
-- [math-practice-app](https://github.com/frnAlt/math-practice-app) - No description
 <!-- RECENT-PROJECTS:END -->
 
 ---
