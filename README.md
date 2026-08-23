@@ -142,7 +142,7 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [truecall-check-web-caller](https://github.com/frnAlt/truecall-check-web-caller) - No description
+- [truecall-check-web-caller](https://github.com/frnAlt/truecall-check-web-caller) - TrueCaller Web • Free Caller ID & Phone Intelligence
 - [Ssstik.io-Scrapper](https://github.com/frnAlt/Ssstik.io-Scrapper) - No description
 - [portfolio](https://github.com/frnAlt/portfolio) - No description
 - [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
