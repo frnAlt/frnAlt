@@ -142,11 +142,11 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
 - [truecall-check-web-caller](https://github.com/frnAlt/truecall-check-web-caller) - TrueCaller Web • Free Caller ID & Phone Intelligence
 - [Ssstik.io-Scrapper](https://github.com/frnAlt/Ssstik.io-Scrapper) - No description
 - [portfolio](https://github.com/frnAlt/portfolio) - No description
 - [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
-- [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 <!-- RECENT-PROJECTS:END -->
 
 ---
