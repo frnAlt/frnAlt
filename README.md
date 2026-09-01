@@ -142,11 +142,11 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [du-7college-result-frontend](https://github.com/frnAlt/du-7college-result-frontend) - No description
 - [GrammChatBot](https://github.com/frnAlt/GrammChatBot) - GrammChatBot is an elite Node.js bot framework that provides a 1-to-1 API Adapter Port of Goatbot-V2 from Facebook Messenger (FCA) to Telegram (TCA).
 - [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 - [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
 - [truecall-check-web-caller](https://github.com/frnAlt/truecall-check-web-caller) - TrueCaller Web • Free Caller ID & Phone Intelligence
-- [Ssstik.io-Scrapper](https://github.com/frnAlt/Ssstik.io-Scrapper) - No description
 <!-- RECENT-PROJECTS:END -->
 
 ---
