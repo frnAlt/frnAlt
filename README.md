@@ -143,10 +143,10 @@ interface DeveloperProfile {
 
 <!-- RECENT-PROJECTS:START -->
 - [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
+- [fca-native](https://github.com/frnAlt/fca-native) - @floppa/fca-native is an enterprise-grade, high-performance Facebook Chat API engine built from the ground up for GoatBot v2, Mirai, and modern Facebook Messenger bot architectures.
 - [Kernel-Driver](https://github.com/frnAlt/Kernel-Driver) - AincradClient v3.7 kernel loader for 4.9.337+58-perf 
 - [ai-video-generation](https://github.com/frnAlt/ai-video-generation) - No description
 - [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
-- [Baka-Chan-bot-fix](https://github.com/frnAlt/Baka-Chan-bot-fix) - Baka-Chan Bot V2 is a next-generation Facebook Messenger chatbot framework engineered for maximum speed, stability, customizability, and 24/7 uptime. Built on the modern GoatBot-V2 foundation and infused with Floppa Chatbot modular subsystems.
 <!-- RECENT-PROJECTS:END -->
 
 ---
