@@ -142,11 +142,11 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
+- [Kernel-Driver](https://github.com/frnAlt/Kernel-Driver) - AincradClient v3.7 kernel loader for 4.9.337+58-perf 
+- [fb_toolkit](https://github.com/frnAlt/fb_toolkit) - A safe, transparent, and fully open-source Python utility for interacting with the official Meta / Facebook Graph API, inspecting access tokens, conducting account security audits, and learning defense against social media infostealers.
 - [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 - [FARHAN-Shot](https://github.com/frnAlt/FARHAN-Shot) - **About Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant**
 - [fca](https://github.com/frnAlt/fca) - Priyansh Facebook Chat API Engine
-- [MovieBox-Web](https://github.com/frnAlt/MovieBox-Web) - No description
-- [fca-native](https://github.com/frnAlt/fca-native) - @floppa/fca-native is an enterprise-grade, high-performance Facebook Chat API engine built from the ground up for GoatBot v2, Mirai, and modern Facebook Messenger bot architectures.
 <!-- RECENT-PROJECTS:END -->
 
 ---
