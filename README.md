@@ -142,8 +142,8 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
 - [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
+- [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
 - [MovieBox-Web](https://github.com/frnAlt/MovieBox-Web) - MovieBox Web transforms the terminal-based capabilities of MovieBox-Tui into a commercial-grade, fully browser-based streaming platform. It features a complete reverse-engineered MovieBox cryptographic signature engine, adaptive HLS & MPEG-DASH video playback, multi-segment background downloading with resume support, 9 switchable theme palettes, li
 - [Kernel-Driver](https://github.com/frnAlt/Kernel-Driver) - AincradClient v3.7 kernel loader for 4.9.337+58-perf 
 - [fb_toolkit](https://github.com/frnAlt/fb_toolkit) - A safe, transparent, and fully open-source Python utility for interacting with the official Meta / Facebook Graph API, inspecting access tokens, conducting account security audits, and learning defense against social media infostealers.
