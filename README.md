@@ -142,8 +142,8 @@ interface DeveloperProfile {
 ### 🚀 Recent Projects
 
 <!-- RECENT-PROJECTS:START -->
-- [my-skill](https://github.com/frnAlt/my-skill) - adding all my skill.
 - [Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) - An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
+- [my-skill](https://github.com/frnAlt/my-skill) - Production-ready AI coding skills and plugins for Google Antigravity & Claude Code: Superpowers, Node.js bot engineering, Web Scraping, API integration, SSL/TLS diagnostics, Security reviews, Next.js, and Android ROM/Gradle.
 - [WA-Goat](https://github.com/frnAlt/WA-Goat) - Goat Bot V2 WhatsApp Edition powered by Baileys & native Floppa-WCA framework with web dashboard, multi-runners, and 290+ commands
 - [InstaBOT](https://github.com/frnAlt/InstaBOT) - GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA) 
 - [MovieBox-Web](https://github.com/frnAlt/MovieBox-Web) - MovieBox Web transforms the terminal-based capabilities of MovieBox-Tui into a commercial-grade, fully browser-based streaming platform. It features a complete reverse-engineered MovieBox cryptographic signature engine, adaptive HLS & MPEG-DASH video playback, multi-segment background downloading with resume support, 9 switchable theme palettes, li
