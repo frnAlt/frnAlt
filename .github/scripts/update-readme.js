@@ -3,6 +3,13 @@ import fs from "fs/promises";
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
+function formatDesc(desc) {
+  if (!desc) return "Systems & automation repository";
+  let cleaned = desc.trim();
+  cleaned = cleaned.replace(/^\*\*About\s+/i, "").replace(/\*\*$/i, "").trim();
+  return cleaned;
+}
+
 async function getTopProjects() {
   const { data: repos } = await octokit.repos.listForUser({
     username: "frnAlt",
@@ -11,10 +18,10 @@ async function getTopProjects() {
   });
 
   const topProjects = repos
-    .filter(repo => !repo.fork && !repo.archived && !repo.private && repo.name !== "frnAlt")
+    .filter(repo => !repo.fork && !repo.archived && !repo.private && repo.name !== "frnAlt" && repo.name !== "AutoReactorPy")
     .sort((a, b) => b.stargazers_count - a.stargazers_count || b.forks_count - a.forks_count)
     .slice(0, 10)
-    .map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description'}`);
+    .map(repo => `- [**${repo.name}**](${repo.html_url}) — ${formatDesc(repo.description)}`);
 
   return topProjects.join('\n');
 }
@@ -28,8 +35,8 @@ async function getRecentProjects() {
 
   const recentProjects = repos
     .filter(repo => !repo.fork && !repo.archived && !repo.private && repo.name !== "frnAlt")
-    .slice(0, 5)
-    .map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description'}`);
+    .slice(0, 6)
+    .map(repo => `- [**${repo.name}**](${repo.html_url}) — ${formatDesc(repo.description)}`);
 
   return recentProjects.join('\n');
 }
