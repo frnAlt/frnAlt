@@ -135,16 +135,16 @@ interface DeveloperProfile {
 ### 🔥 Top Projects
 
 <!-- TOP-PROJECTS-LIST:START -->
-- [**my-skill**](https://github.com/frnAlt/my-skill) — Production-ready AI coding skills and plugins for Google Antigravity & Claude Code: Superpowers, Node.js bot engineering, Web Scraping, API integration, SSL/TLS diagnostics, Security reviews, Next.js, and Android ROM/Gradle.
 - [**FARHAN-Shot**](https://github.com/frnAlt/FARHAN-Shot) — Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) — Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [**facebookChatBot**](https://github.com/frnAlt/facebookChatBot) — A high-performance, modular, and human-like Facebook Messenger Chatbot built on Node.js and GoatBot v2 architecture. Powered by a custom anti-ban FCA engine, SQLite conversation memory, group moderation tools, and a real-time web control panel.
 - [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) — An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
-- [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) — GoatBot-V2 & Floppa-Chatbot Telegram Port with AstrBot-Inspired Agentic AI Core, Plugin Skills, Multi-LLM, RAG & Full Command Fleet
-- [**WA-Goat**](https://github.com/frnAlt/WA-Goat) — Goat Bot V2 WhatsApp Edition powered by Baileys & native Floppa-WCA framework with web dashboard, multi-runners, and 290+ commands
-- [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
+- [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
 - [**Xiaomi_blossom_stuff**](https://github.com/frnAlt/Xiaomi_blossom_stuff) — Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
-- [**fca-native**](https://github.com/frnAlt/fca-native) — @floppa/fca-native enterprise-grade, high-performance Facebook Chat API engine built from the ground up for GoatBot v2, Mirai, and modern Facebook Messenger bot architectures.
+- [**fca-goatbot-adapted**](https://github.com/frnAlt/fca-goatbot-adapted) — Try out new fca.
+- [**Baka-Chan-bot-fix**](https://github.com/frnAlt/Baka-Chan-bot-fix) — Baka-Chan Bot V2 is a next-generation Facebook Messenger chatbot framework engineered for maximum speed, stability, customizability, and 24/7 uptime. Built on the modern GoatBot-V2 foundation and infused with Floppa Chatbot modular subsystems.
+- [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) — GoatBot-V2 & Floppa-Chatbot Telegram Port with AstrBot-Inspired Agentic AI Core, Plugin Skills, Multi-LLM, RAG & Full Command Fleet
+- [**Baka-chan-v2**](https://github.com/frnAlt/Baka-chan-v2) — Goat bot v2 based clone bot
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
@@ -152,12 +152,12 @@ interface DeveloperProfile {
 ### 🚀 Recent Activity
 
 <!-- RECENT-PROJECTS:START -->
-- [**my-skill**](https://github.com/frnAlt/my-skill) — Production-ready AI coding skills and plugins for Google Antigravity & Claude Code: Superpowers, Node.js bot engineering, Web Scraping, API integration, SSL/TLS diagnostics, Security reviews, Next.js, and Android ROM/Gradle.
 - [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) — GoatBot-V2 & Floppa-Chatbot Telegram Port with AstrBot-Inspired Agentic AI Core, Plugin Skills, Multi-LLM, RAG & Full Command Fleet
 - [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) — An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
+- [**my-skill**](https://github.com/frnAlt/my-skill) — Production-ready AI coding skills and plugins for Google Antigravity & Claude Code: Superpowers, Node.js bot engineering, Web Scraping, API integration, SSL/TLS diagnostics, Security reviews, Next.js, and Android ROM/Gradle.
 - [**WA-Goat**](https://github.com/frnAlt/WA-Goat) — Goat Bot V2 WhatsApp Edition powered by Baileys & native Floppa-WCA framework with web dashboard, multi-runners, and 290+ commands
-- [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
-- [**facebookChatBot**](https://github.com/frnAlt/facebookChatBot) — A high-performance, modular, and human-like Facebook Messenger Chatbot built on Node.js and GoatBot v2 architecture. Powered by a custom anti-ban FCA engine, SQLite conversation memory, group moderation tools, and a real-time web control panel.
+- [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
+- [**MovieBox-Web**](https://github.com/frnAlt/MovieBox-Web) — MovieBox Web transforms the terminal-based capabilities of MovieBox-Tui into a commercial-grade, fully browser-based streaming platform. It features a complete reverse-engineered MovieBox cryptographic signature engine, adaptive HLS & MPEG-DASH video playback, multi-segment background downloading with resume support, 9 switchable theme palettes, li
 <!-- RECENT-PROJECTS:END -->
 
 ---
