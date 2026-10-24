@@ -60,12 +60,12 @@ Backend and systems engineer specializing in high-throughput network services, p
 
 | Project | Focus | Tech & Key Capabilities |
 | :--- | :--- | :--- |
-| ⚡ [**my-skill**](https://github.com/frnAlt/my-skill) | **Autonomous AI Coding Agents** | Production-ready AI coding skills & plugins for Google Antigravity & Claude Code: Superpowers, Bot Engineering, Web Scraping, TLS Diagnostics, and TDD execution. |
-| 🛰️ [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) | **Protocol Reverse Engineering** | Unofficial TypeScript engine emulating browser HTTP/GraphQL & MQTT protocols for FB Messenger with zero webview dependencies. |
-| 🤖 [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) | **Agentic Bot Architecture** | Telegram bot featuring an AstrBot-inspired Agentic AI core, modular plugin skill framework, Multi-LLM provider routing, and RAG. |
-| 🛡️ [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) | **Offensive Wireless Research** | Automated WPS PIN attack toolkit (Pixie Dust, online bruteforce, PIN prediction) leveraging direct `wpa_supplicant` interaction without monitor mode. |
-| 💬 [**WA-Goat**](https://github.com/frnAlt/WA-Goat) | **Enterprise Multi-Runner** | WhatsApp GoatBot V2 edition engineered on Baileys & native Floppa-WCA with an active web control dashboard and 290+ commands. |
-| 📱 [**Xiaomi Blossom Kit**](https://github.com/frnAlt/Xiaomi_blossom_stuff) | **Android Low-Level & ROMs** | Xiaomi Redmi 9A/9C/9 Activ vendor overlay configurations, bootloader restriction bypasses, and custom ROM/Kernel porting trees. |
+| [**my-skill**](https://github.com/frnAlt/my-skill) | **Autonomous AI Coding Agents** | Production-ready AI coding skills & plugins for Google Antigravity & Claude Code: Superpowers, Bot Engineering, Web Scraping, TLS Diagnostics, and TDD execution. |
+| [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) | **Protocol Reverse Engineering** | Unofficial TypeScript engine emulating browser HTTP/GraphQL & MQTT protocols for FB Messenger with zero webview dependencies. |
+| [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) | **Agentic Bot Architecture** | Telegram bot featuring an AstrBot-inspired Agentic AI core, modular plugin skill framework, Multi-LLM provider routing, and RAG. |
+| [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) | **Offensive Wireless Research** | Automated WPS PIN attack toolkit (Pixie Dust, online bruteforce, PIN prediction) leveraging direct `wpa_supplicant` interaction without monitor mode. |
+| [**WA-Goat**](https://github.com/frnAlt/WA-Goat) | **Enterprise Multi-Runner** | WhatsApp GoatBot V2 edition engineered on Baileys & native Floppa-WCA with an active web control dashboard and 290+ commands. |
+| [**Xiaomi Blossom Kit**](https://github.com/frnAlt/Xiaomi_blossom_stuff) | **Android Low-Level & ROMs** | Xiaomi Redmi 9A/9C/9 Activ vendor overlay configurations, bootloader restriction bypasses, and custom ROM/Kernel porting trees. |
 
 ---
 
