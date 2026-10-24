@@ -80,7 +80,7 @@ interface DeveloperProfile {
   
   <br/>
   <p><b>Systems, Android & Security</b></p>
-  <img src="https://skillicons.dev/icons?i=linux,android,docker,postman,git,github" alt="systems & security" />
+  <img src="https://skillicons.dev/icons?i=linux,androidstudio,docker,postman,git,github" alt="systems & security" />
 
   <br/>
   <p><b>Databases & Cloud Infrastructure</b></p>

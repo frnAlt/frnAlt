@@ -1,138 +1,75 @@
 <div align="center">
-  <br/>
   <a href="https://github.com/frnAlt">
-    <img src="https://github.com/frnAlt.png?size=260" width="130" height="130" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Farhan Muh Tasim" />
+    <img src="https://github.com/frnAlt.png?size=260" width="120" height="120" style="border-radius: 50%;" alt="Farhan Muh Tasim" />
   </a>
   <br/><br/>
   <h1>Farhan Muh Tasim</h1>
-  <code>frnAlt</code> &nbsp;•&nbsp; <code>Gtajisan</code> &nbsp;•&nbsp; <code>frnback</code>
-  <br/><br/>
-
-  <a href="https://github.com/frnAlt">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Agentic+AI+Skills+%26+Autonomous+Tooling;Reverse+Engineering+%E2%80%A2+Protocol+Emulation;High-Performance+Bot+Engines+(Node.js+%2F+TS+%2F+Go);Android+Low-Level+%E2%80%A2+KernelSU+%26+ROM+Dev;Security+Research+%E2%80%A2+Wireless+%26+API+Auditing" alt="Typing SVG" />
-  </a>
-  <br/><br/>
+  <p><b>Backend Engineer &bull; Systems &amp; Low-Level Developer &bull; Security Researcher</b></p>
+  <p><code>frnAlt</code> &nbsp;|&nbsp; <code>Gtajisan</code> &nbsp;|&nbsp; <code>frnback</code></p>
+  <br/>
 
   <p>
-    <a href="https://github.com/frnAlt"><img src="https://img.shields.io/badge/Status-Active_Development-0284c7?style=flat-square&logo=github&logoColor=white" alt="Status" /></a>
-    <a href="https://github.com/frnAlt/my-skill"><img src="https://img.shields.io/badge/Specialization-AI_Coding_Skills_%26_Agents-7c3aed?style=flat-square&logo=google&logoColor=white" alt="AI Skills" /></a>
-    <img src="https://img.shields.io/badge/Location-Chattogram%2C_Bangladesh-059669?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=frnAlt&label=Views&color=0284c7&style=flat-square" alt="Views" />
+    <a href="https://github.com/frnAlt"><img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-0969da?style=flat-square&logo=github&logoColor=white" alt="Focus" /></a>
+    <a href="https://github.com/frnAlt"><img src="https://img.shields.io/badge/Stack-Go_%7C_Node.js_%7C_Python_%7C_C%2FC%2B%2B-24292f?style=flat-square" alt="Stack" /></a>
+    <a href="https://github.com/frnAlt"><img src="https://img.shields.io/badge/OS-Linux_%2F_Android_Internals-333333?style=flat-square&logo=linux&logoColor=white" alt="OS" /></a>
+    <img src="https://img.shields.io/badge/Location-Chattogram,_Bangladesh-1f883d?style=flat-square" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=frnAlt&label=Profile_Views&color=0969da&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 💻 Fastfetch / System Architecture
+### Overview
 
-```sys
-                     frnAlt@arch-workstation
-                     -----------------------
-       /\            OS: Arch Linux x86_64 / Android (Termux Root)
-      /  \           Kernel: Linux 6.x (Hardened) • Custom KernelSU
-     /\   \          Shell: zsh (oh-my-zsh) / bash (tmux environment)
-    /      \         Role: Systems, Security Researcher & Bot Architect
-   /   ,,   \        Focus: AI Coding Agents • Reverse Engineering • Low-Level Android
-  /   |  |  -\       Stack: TypeScript, Go, Python, C/C++, Linux Internals
- /_-''    ''-_\      Status: Engineering autonomous skills & multi-protocol bot engines
-```
+Backend and systems engineer specializing in high-throughput network services, protocol reverse engineering, distributed automation engines, and low-level Linux/Android internals. Experienced in designing resilient APIs, reverse-engineering undocumented binary and WebSocket/MQTT protocols, building autonomous AI agent tooling, and hardening systems from kernel space to application runtimes.
 
 ---
 
-### 🌟 Featured Highlights
+### Core Technical Competencies
 
-| Project | Focus | Tech & Key Capabilities |
+| Domain | Specializations | Architectures & Technologies |
 | :--- | :--- | :--- |
-| ⚡ [**my-skill**](https://github.com/frnAlt/my-skill) | **Autonomous AI Coding Agents** | Production-ready AI coding skills & plugins for Google Antigravity & Claude Code: Superpowers, Bot Engineering, Web Scraping, TLS Diagnostics, and TDD execution. |
-| 🛰️ [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) | **Protocol Reverse Engineering** | Unofficial TypeScript engine emulating browser HTTP/GraphQL & MQTT protocols for FB Messenger with zero webview dependencies. |
-| 🤖 [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) | **Agentic Bot Architecture** | Telegram bot featuring an AstrBot-inspired Agentic AI core, modular plugin skill framework, Multi-LLM provider routing, and RAG. |
-| 🛡️ [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) | **Offensive Wireless Research** | Automated WPS PIN attack toolkit (Pixie Dust, online bruteforce, PIN prediction) leveraging direct `wpa_supplicant` interaction without monitor mode. |
-| 💬 [**WA-Goat**](https://github.com/frnAlt/WA-Goat) | **Enterprise Multi-Runner** | WhatsApp GoatBot V2 edition engineered on Baileys & native Floppa-WCA with an active web control dashboard and 290+ commands. |
-| 📱 [**Xiaomi Blossom Kit**](https://github.com/frnAlt/Xiaomi_blossom_stuff) | **Android Low-Level & ROMs** | Xiaomi Redmi 9A/9C/9 Activ vendor overlay configurations, bootloader restriction bypasses, and custom ROM/Kernel porting trees. |
+| **Backend & Distributed Systems** | High-concurrency services, event-driven architectures, WebSocket/MQTT streaming, REST API design, rate-limiting, connection pooling, fault tolerance | Go, Node.js, TypeScript, Python, Express, FastAPI, Goroutines, Asyncio |
+| **Network & Protocol Engineering** | Browser session emulation, TLS fingerprinting, reverse engineering undocumented GraphQL/REST endpoints, bi-directional socket orchestration | Floppa-Chatbot, FCA engines, MQTT, HTTP/2, Protobuf, Puppeteer, Playwright |
+| **Systems & Low-Level** | Linux kernel module development, KernelSU integration, AOSP and LineageOS device trees, fastboot/ADB automation, vendor blob patching, POSIX shells | C, C++, Bash, Zsh, Linux 6.x, KernelSU, Android NDK, Make |
+| **Security & Reverse Engineering** | Cryptographic signature disassembly, wireless security auditing, token auditing, anti-bot mitigation, memory and binary analysis | wpa_supplicant (WPS Pixie Dust), Ghidra, Frida, Wireshark, Burp Suite |
+| **Data Persistence & Caching** | Relational data modeling, ACID transactions, document stores, in-memory key-value caching, Pub/Sub messaging | PostgreSQL, SQLite, MongoDB, Redis |
+| **Autonomous AI & Developer Tooling** | Agentic workflow automation, deterministic TDD agent frameworks, plugin skill systems, multi-LLM orchestration, RAG pipelines | Google Antigravity SDK, Claude Code Plugins, my-skill, LangChain |
 
 ---
 
-### 🛠️ Technical Profile & Core Competencies
-
-```typescript
-interface DeveloperProfile {
-  identity: {
-    name: "Farhan Muh Tasim",
-    handles: ["frnAlt", "Gtajisan", "frnback"],
-    location: "Chattogram, Bangladesh 🇧🇩",
-    status: "Designing Bot Frameworks, AI Tooling & Security Utilities"
-  };
-
-  core_domains: {
-    agentic_ai_and_tooling: [
-      "Antigravity & Claude Code Skills (my-skill)",
-      "Autonomous Multi-Agent Workflows & TDD Pipelines",
-      "Multi-LLM Orchestration & RAG Engines (GrammChatBot)"
-    ],
-    protocol_re_and_bot_engines: [
-      "Browser Session & MQTT Emulation (Floppa-Chatbot)",
-      "Enterprise FCA Engines w/ Anti-Ban Subsystems (fca-native)",
-      "Multi-Platform Bot Ecosystems (Telegram, Messenger, WhatsApp, Instagram)"
-    ],
-    security_research: [
-      "WPS PIN Exploitation via wpa_supplicant (FARHAN-Shot)",
-      "Token Auditing & Graph API Defense (fb_toolkit)",
-      "Cryptographic Signature Reverse Engineering (MovieBox-Web)"
-    ],
-    low_level_and_systems: [
-      "Custom Linux Kernel Modules & KernelSU Integration",
-      "Android Fastboot/ADB Infrastructure & ROM Porting",
-      "High-Concurrency Microservices in Go & Node.js"
-    ]
-  };
-}
-```
-
----
-
-### 🧰 Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
   <br/>
-  <p><b>Languages & Core Runtimes</b></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,py,c,cpp,bash" alt="Languages" />
+  <p><b>Languages &amp; Core Runtimes</b></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,c,cpp,bash" alt="Languages & Core Runtimes" />
   
   <br/><br/>
-  <p><b>Systems, Android & Security</b></p>
-  <img src="https://skillicons.dev/icons?i=linux,android,docker,postman,git,github" alt="Systems & Security" />
+  <p><b>Systems, Android &amp; DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=linux,androidstudio,docker,postman,git,github" alt="Systems, Android & DevOps" />
 
   <br/><br/>
-  <p><b>Databases & Cloud Architecture</b></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,redis,express,vercel,render" alt="Databases & Cloud" />
+  <p><b>Databases &amp; Cloud Infrastructure</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,cloudflare,vercel" alt="Databases & Cloud Infrastructure" />
 </div>
 
 ---
 
-### 📈 Activity & Metrics
+### Featured Systems & Engineering Work
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-    <img src="dist/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/frnAlt">
-    <img src="https://github-readme-stats.vercel.app/api?username=frnAlt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/frnAlt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnAlt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&hide=smali,html,css" alt="Top Languages" />
-  </a>
-</div>
+| Project | Domain | Architecture & Technical Highlights | Stack |
+| :--- | :--- | :--- | :--- |
+| [**my-skill**](https://github.com/frnAlt/my-skill) | Autonomous AI Tooling | Production-ready AI agent skills and plugins for Google Antigravity and Claude Code. Integrates systematic TDD workflows, AST analysis, TLS debugging, and automated bot engineering. | Markdown, Shell, Node.js, Python |
+| [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) | Protocol Reverse Engineering | Pure TypeScript client library reverse-engineering Facebook Messenger browser protocols (GraphQL, HTTP/2, MQTT) with complete session emulation and zero headless browser overhead. | TypeScript, MQTT, WebSocket, HTTP/2 |
+| [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) | Autonomous Agentic Bots | Modular multi-LLM Telegram bot core featuring dynamic skill plugin dispatch, vector retrieval-augmented generation (RAG), and asynchronous task routing. | Python, TypeScript, SQLite, REST |
+| [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) | Wireless Security Research | Offensive wireless security utility automating Pixie Dust and PIN brute-force attacks via direct Linux `wpa_supplicant` IPC socket interaction without monitor mode requirements. | C, Shell, Linux Networking |
+| [**WA-Goat**](https://github.com/frnAlt/WA-Goat) | High-Concurrency Bot Engine | Multi-runner WhatsApp automation framework powered by Baileys socket connection handling, localized SQLite session memory, and an administrative real-time dashboard. | Node.js, Baileys, SQLite, WebSockets |
+| [**Xiaomi Blossom Kit**](https://github.com/frnAlt/Xiaomi_blossom_stuff) | Low-Level Android Systems | Device tree overlays, SELinux policy configurations, and vendor blob extraction routines for compiling and porting custom AOSP/LineageOS ROMs on MT6762/MT6765 devices. | C, Make, Shell, Android Tree |
 
 ---
 
-### 🔥 Top Projects
+### Top Repositories
 
 <!-- TOP-PROJECTS-LIST:START -->
 - [**FARHAN-Shot**](https://github.com/frnAlt/FARHAN-Shot) — Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
@@ -149,7 +86,7 @@ interface DeveloperProfile {
 
 ---
 
-### 🚀 Recent Activity
+### Recent Activity
 
 <!-- RECENT-PROJECTS:START -->
 - [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) — GoatBot-V2 & Floppa-Chatbot Telegram Port with AstrBot-Inspired Agentic AI Core, Plugin Skills, Multi-LLM, RAG & Full Command Fleet
@@ -162,14 +99,28 @@ interface DeveloperProfile {
 
 ---
 
-### 🌐 Connect
+### GitHub Metrics
+
+<div align="center">
+  <a href="https://github.com/frnAlt">
+    <img src="https://github-readme-stats.vercel.app/api?username=frnAlt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/frnAlt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnAlt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&hide=smali,html,css" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### Contact & Profiles
 
 <div align="center">
   <a href="https://github.com/frnAlt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sultana01537118@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-d93025?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
