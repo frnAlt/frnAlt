@@ -56,18 +56,7 @@ Backend and systems engineer specializing in high-throughput network services, p
 
 ---
 
-### Featured Systems & Engineering Work
 
-| Project | Domain | Architecture & Technical Highlights | Stack |
-| :--- | :--- | :--- | :--- |
-| [**my-skill**](https://github.com/frnAlt/my-skill) | Autonomous AI Tooling | Production-ready AI agent skills and plugins for Google Antigravity and Claude Code. Integrates systematic TDD workflows, AST analysis, TLS debugging, and automated bot engineering. | Markdown, Shell, Node.js, Python |
-| [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) | Protocol Reverse Engineering | Pure TypeScript client library reverse-engineering Facebook Messenger browser protocols (GraphQL, HTTP/2, MQTT) with complete session emulation and zero headless browser overhead. | TypeScript, MQTT, WebSocket, HTTP/2 |
-| [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) | Autonomous Agentic Bots | Modular multi-LLM Telegram bot core featuring dynamic skill plugin dispatch, vector retrieval-augmented generation (RAG), and asynchronous task routing. | Python, TypeScript, SQLite, REST |
-| [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) | Wireless Security Research | Offensive wireless security utility automating Pixie Dust and PIN brute-force attacks via direct Linux `wpa_supplicant` IPC socket interaction without monitor mode requirements. | C, Shell, Linux Networking |
-| [**WA-Goat**](https://github.com/frnAlt/WA-Goat) | High-Concurrency Bot Engine | Multi-runner WhatsApp automation framework powered by Baileys socket connection handling, localized SQLite session memory, and an administrative real-time dashboard. | Node.js, Baileys, SQLite, WebSockets |
-| [**Xiaomi Blossom Kit**](https://github.com/frnAlt/Xiaomi_blossom_stuff) | Low-Level Android Systems | Device tree overlays, SELinux policy configurations, and vendor blob extraction routines for compiling and porting custom AOSP/LineageOS ROMs on MT6762/MT6765 devices. | C, Make, Shell, Android Tree |
-
----
 
 ### Top Repositories
 
