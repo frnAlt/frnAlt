@@ -79,9 +79,9 @@ Backend and systems engineer specializing in high-throughput network services, p
 - [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
 - [**Xiaomi_blossom_stuff**](https://github.com/frnAlt/Xiaomi_blossom_stuff) — Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [**fca-goatbot-adapted**](https://github.com/frnAlt/fca-goatbot-adapted) — Try out new fca.
+- [**WA-Goat**](https://github.com/frnAlt/WA-Goat) — Goat Bot V2 WhatsApp Edition powered by Baileys & native Floppa-WCA framework with web dashboard, multi-runners, and 290+ commands
 - [**Baka-Chan-bot-fix**](https://github.com/frnAlt/Baka-Chan-bot-fix) — Baka-Chan Bot V2 is a next-generation Facebook Messenger chatbot framework engineered for maximum speed, stability, customizability, and 24/7 uptime. Built on the modern GoatBot-V2 foundation and infused with Floppa Chatbot modular subsystems.
 - [**MovieBox-Web**](https://github.com/frnAlt/MovieBox-Web) — MovieBox Web transforms the terminal-based capabilities of MovieBox-Tui into a commercial-grade, fully browser-based streaming platform. It features a complete reverse-engineered MovieBox cryptographic signature engine, adaptive HLS & MPEG-DASH video playback, multi-segment background downloading with resume support, 9 switchable theme palettes, li
-- [**GrammChatBot**](https://github.com/frnAlt/GrammChatBot) — GoatBot-V2 & Floppa-Chatbot Telegram Port with AstrBot-Inspired Agentic AI Core, Plugin Skills, Multi-LLM, RAG & Full Command Fleet
 <!-- TOP-PROJECTS-LIST:END -->
 
 ---
