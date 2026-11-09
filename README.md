@@ -89,8 +89,8 @@ Backend and systems engineer specializing in high-throughput network services, p
 ### Recent Activity
 
 <!-- RECENT-PROJECTS:START -->
-- [**Firmware_extractor**](https://github.com/frnAlt/Firmware_extractor) — Universal Android firmware dumper, partition unpacker, and automated AOSP / LineageOS device & vendor tree generator with GitHub Actions automation.
 - [**Avro-Keyboard**](https://github.com/frnAlt/Avro-Keyboard) — Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows with Voice Dictation & Modern UI
+- [**Firmware_extractor**](https://github.com/frnAlt/Firmware_extractor) — Universal Android firmware dumper, partition unpacker, and automated AOSP / LineageOS device & vendor tree generator with GitHub Actions automation.
 - [**daisy_crave_build**](https://github.com/frnAlt/daisy_crave_build) — Universal Android 16 / LineageOS 23.2 Custom ROM Crave Build Pipeline & Manifests for Xiaomi Mi A2 Lite (daisy) with Automated Bug Fixes
 - [**Scripts**](https://github.com/frnAlt/Scripts) — Systems & automation repository
 - [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
