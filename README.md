@@ -89,12 +89,12 @@ Backend and systems engineer specializing in high-throughput network services, p
 ### Recent Activity
 
 <!-- RECENT-PROJECTS:START -->
+- [**device_xiaomi_camera**](https://github.com/frnAlt/device_xiaomi_camera) — Adapt MIUI/Leica camera for stone, sunstone and moonstone
+- [**vendor_xiaomi_camera**](https://github.com/frnAlt/vendor_xiaomi_camera) — Adapt MIUI/Leica camera for stone, sunstone and moonstone vendor
+- [**Scripts**](https://github.com/frnAlt/Scripts) — Systems & automation repository
+- [**Lunaris_stone**](https://github.com/frnAlt/Lunaris_stone) — Lunaris OS builds for Xiaomi Redmi Note 12 5G / Poco X5 5G (stone)
 - [**Avro-Keyboard**](https://github.com/frnAlt/Avro-Keyboard) — Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows with Voice Dictation & Modern UI
 - [**Firmware_extractor**](https://github.com/frnAlt/Firmware_extractor) — Universal Android firmware dumper, partition unpacker, and automated AOSP / LineageOS device & vendor tree generator with GitHub Actions automation.
-- [**daisy_crave_build**](https://github.com/frnAlt/daisy_crave_build) — Universal Android 16 / LineageOS 23.2 Custom ROM Crave Build Pipeline & Manifests for Xiaomi Mi A2 Lite (daisy) with Automated Bug Fixes
-- [**Scripts**](https://github.com/frnAlt/Scripts) — Systems & automation repository
-- [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
-- [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) — An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 <!-- RECENT-PROJECTS:END -->
 
 ---
