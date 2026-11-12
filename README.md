@@ -89,12 +89,12 @@ Backend and systems engineer specializing in high-throughput network services, p
 ### Recent Activity
 
 <!-- RECENT-PROJECTS:START -->
+- [**android_packages_apps_Screen_Recoder**](https://github.com/frnAlt/android_packages_apps_Screen_Recoder) — screen recoder prebuild
+- [**Scripts**](https://github.com/frnAlt/Scripts) — Systems & automation repository
 - [**vendor_xiaomi_camera**](https://github.com/frnAlt/vendor_xiaomi_camera) — Adapt MIUI/Leica camera for stone, sunstone and moonstone vendor
 - [**device_xiaomi_camera**](https://github.com/frnAlt/device_xiaomi_camera) — Adapt MIUI/Leica camera for stone, sunstone and moonstone
-- [**Scripts**](https://github.com/frnAlt/Scripts) — Systems & automation repository
 - [**Lunaris_stone**](https://github.com/frnAlt/Lunaris_stone) — Lunaris OS builds for Xiaomi Redmi Note 12 5G / Poco X5 5G (stone)
 - [**Avro-Keyboard**](https://github.com/frnAlt/Avro-Keyboard) — Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows with Voice Dictation & Modern UI
-- [**Firmware_extractor**](https://github.com/frnAlt/Firmware_extractor) — Universal Android firmware dumper, partition unpacker, and automated AOSP / LineageOS device & vendor tree generator with GitHub Actions automation.
 <!-- RECENT-PROJECTS:END -->
 
 ---
