@@ -73,9 +73,9 @@ Backend and systems engineer specializing in high-throughput network services, p
 
 <!-- TOP-PROJECTS-LIST:START -->
 - [**FARHAN-Shot**](https://github.com/frnAlt/FARHAN-Shot) — Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
+- [**Xiaomi_blossom_stuff**](https://github.com/frnAlt/Xiaomi_blossom_stuff) — Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [**FARHAN-Shot-v2**](https://github.com/frnAlt/FARHAN-Shot-v2) — Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [**facebookChatBot**](https://github.com/frnAlt/facebookChatBot) — A high-performance, modular, and human-like Facebook Messenger Chatbot built on Node.js and GoatBot v2 architecture. Powered by a custom anti-ban FCA engine, SQLite conversation memory, group moderation tools, and a real-time web control panel.
-- [**Xiaomi_blossom_stuff**](https://github.com/frnAlt/Xiaomi_blossom_stuff) — Xiaomi Blossom (Redmi 9A / 9C / 9 Activ) Overlays, Configs & Porting Kit
 - [**Floppa-Chatbot**](https://github.com/frnAlt/Floppa-Chatbot) — An unofficial Node.js library for interacting with Facebook Messenger through user-session emulation. It speaks the same HTTP/GraphQL and MQTT protocols the browser client uses, giving you programmatic access to messages, threads, reactions, typing indicators, and more — all in TypeScript with full type definitions.
 - [**InstaBOT**](https://github.com/frnAlt/InstaBOT) — GoatBot based a modular, high-performance Instagram Direct Messenger bot ported directly from the legendary GoatBot V2 architecture. Built with a bundled native Instagram Chat API (ICA)
 - [**fca-goatbot-adapted**](https://github.com/frnAlt/fca-goatbot-adapted) — Try out new fca.
